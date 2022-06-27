@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`demo testing testing snapshot for DemoDuck Component 1`] = `
+<div>
+  This is demo-duck
+</div>
+`;
